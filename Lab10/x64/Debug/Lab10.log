@@ -1,0 +1,23 @@
+﻿  Reading Qt configuration (C:/Qt/6.3.0/msvc2019_64/bin/qmake)
+  uic GUI.ui
+  rcc GUI.qrc
+  moc GUI.h
+   RCC: Warning: No resources in 'C:\Users\RawL\source\repos\OOP\Lab10\GUI.qrc'.
+  AgentieGUI.cpp
+  HistogramGUI.cpp
+  MainTests.cpp
+  MyTableModel.cpp
+  Observer.cpp
+  Oferta.cpp
+  Repositorry.cpp
+  Service.cpp
+  UI.cpp
+  Validator.cpp
+  Wishlist.cpp
+  GUI.cpp
+  main.cpp
+  qrc_GUI.cpp
+  moc_GUI.cpp
+  Lab10.vcxproj -> C:\Users\RawL\source\repos\OOP\x64\Debug\Lab10.exe
+  windeployqt: "C:/Qt/6.3.0/msvc2019_64/bin\windeployqt.exe" --list target --dir C:\Users\RawL\source\repos\OOP\x64\Debug\ C:\Users\RawL\source\repos\OOP\x64\Debug\Lab10.exe
+EXEC : warning : Cannot find Visual Studio installation directory, VCINSTALLDIR is not set.

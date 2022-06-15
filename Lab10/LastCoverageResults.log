@@ -1,0 +1,21 @@
+[2022-05-26 13:02:57] [info] Start Program:
+Path:"D:\OOP\Lab10\x64\Debug\Lab10.exe"
+Arguments:
+Working directory: "D:\OOP\Lab10\Lab10\"
+Modules: Selected: D:\OOP\Lab10\x64\Debug\Lab10.exe Excluded: 
+Sources: Selected: D:\OOP\Lab10\Lab10 Excluded: main.cpp UI.cpp MainTests.cpp AgentieGUI.cpp GUI.cpp Wishlist.cpp AgentieGUI.h Observer.h 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\RawL\AppData\Local\Temp\d2saq51e.ppx 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-05-26 13:02:57] [info] Module: D:\OOP\Lab10\x64\Debug\Lab10.exe is selected because it matches selected pattern: D:\OOP\Lab10\x64\Debug\Lab10.exe
+[2022-05-26 13:02:58] [info] ----------------------------------------------------
+[2022-05-26 13:02:58] [info] Coverage binary generated in file: C:\Users\RawL\AppData\Local\Temp\d2saq51e.ppx
+[2022-05-26 13:02:58] [info] ----------------------------------------------------
